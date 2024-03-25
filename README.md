@@ -9,7 +9,7 @@ This project aims to develop a machine learning model capable of distinguishing 
 - `Data/`: Folder containing the dataset and `public.csv` with image names and their corresponding labels.
 - `model/`: Directory where the trained model is saved.
 - `environment.yml`: Conda environment file to set up the required environment for running the project.
-- `test`: Test data 
+- `test/`: Test data 
 
 ## Environment Setup
 
